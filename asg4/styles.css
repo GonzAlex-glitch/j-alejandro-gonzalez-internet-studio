@@ -9,3 +9,9 @@ h2.rubik-distressed-regular {
   font-weight: 400;
   font-style: normal;
 }
+
+li.rubik-maps-regular {
+  font-family: "Rubik Maps", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
