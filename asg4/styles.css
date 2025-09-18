@@ -1,4 +1,9 @@
+html {
+  background-image: url(images/fire_background.jpg);
+}
+
 h1 {
+  color: #FF3131;
   font-family: "Rubik Glitch", system-ui;
   font-weight: 400;
   font-style: normal;
