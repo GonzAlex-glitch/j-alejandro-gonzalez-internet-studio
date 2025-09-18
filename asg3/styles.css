@@ -3,6 +3,7 @@ background-image: url:(img/fire_background.jpg);
 }
 
 h1 {
+  color: #FF3131;
 font-family: "Rubik Dirt", system-ui;
   font-weight: 400;
   font-style: normal;
