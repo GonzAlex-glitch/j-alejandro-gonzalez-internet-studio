@@ -30,13 +30,15 @@ li {
 td {
   color: #f7954f;
   font-family: "Alumni Sans Inline One", sans-serif;
-  font-weight: 600;
+  font-weight: 400;
   font-style: normal;
+	font-size: 6em
 }
 
 th {
   color: #ba4e00;
   font-family: "Alumni Sans Inline One", sans-serif;
-  font-weight: 600;
+  font-weight: 400;
   font-style: italic;
+	font-size: 6em
 }
