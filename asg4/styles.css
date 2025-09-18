@@ -1,6 +1,11 @@
-h1 .rubik-glitch-regular {
+h1.rubik-glitch-regular {
   font-family: "Rubik Glitch", system-ui;
   font-weight: 400;
   font-style: normal;
 }
 
+h2.rubik-distressed-regular {
+  font-family: "Rubik Distressed", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
