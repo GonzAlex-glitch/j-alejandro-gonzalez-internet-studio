@@ -12,7 +12,7 @@ h1 {
   line-height: 150%;
 	margin-top: 10px;
   margin-left: 420px;
-background: -webkit-linear-gradient(top, #262626 0%, #EDEDED 50%, #262626 100%);
+background: linear-gradient(to bottom, #262626 0%, #EDEDED 44%, #262626 100%);
 text-shadow: 0px 0px 8px #FFB94E;
 }
 
