@@ -16,6 +16,7 @@ h2 {
   font-family: "Rubik Distressed", system-ui;
   font-weight: 400;
   font-style: normal;
+	text-shadow: 0px 0px 8px #FFB94E;
 }
 
 li {
@@ -23,6 +24,7 @@ li {
   font-family: "Rubik Maps", system-ui;
   font-weight: 400;
   font-style: normal;
+	text-shadow: 0px 0px 8px #FFB94E;
 }
 
 td {
