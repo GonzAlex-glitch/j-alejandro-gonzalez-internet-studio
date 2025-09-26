@@ -1,5 +1,9 @@
-/* styles.css */
+html {
 
-* {
-	font-family: Arial;
+}
+
+h1 {
+  font-family: "Russo One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
