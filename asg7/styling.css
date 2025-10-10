@@ -1,0 +1,81 @@
+/* reset browser styles */
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp,small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+/* contrail-one-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Contrail One';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/contrail-one-v21-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* doppio-one-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Doppio One';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/doppio-one-v14-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+body {
+  line-height: 1.2;
+}
+ol { 
+  padding-left: 1.4em;
+  list-style: decimal;
+}
+ul {
+  padding-left: 1.4em;
+  list-style: square;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+} 
+/* end reset browser styles */
+html {
+ background-color: rgb(124, 148, 201);
+}
+body {
+  background-color: rgb(35, 18, 228);
+  border: 3px solid rgb(75,75,75);
+  box-shadow: 0 0 15px 5px rgba(11, 5, 87, 0.75);
+  max-width: 760px;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 12px;
+}
+
+h2 {
+  font-family: 'Contrail One';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 160%;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  border-top: 5px solid rgb(85, 235, 255);
+  border-bottom: 5px solid rgb(85, 235, 255);
+  color: rgb(255, 255, 255)
+}
+
+p {
+  font-family: 'Doppio One';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  padding-top: 11px;
+  padding-bottom: 11px;
+  color: rgb(255, 255, 255)
+}
